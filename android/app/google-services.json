@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620236685864",
+    "firebase_url": "https://prueba-fd78f-default-rtdb.firebaseio.com",
+    "project_id": "prueba-fd78f",
+    "storage_bucket": "prueba-fd78f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620236685864:android:cfe08a6bf760ed57d3eb1d",
+        "android_client_info": {
+          "package_name": "com.example.subastas_movil_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620236685864-1qg5q0tmcumvlb7mapqd9m4b4gbo2krh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44OPGCVjqKqaXPAr5owa5i07TAVyFbfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620236685864-1qg5q0tmcumvlb7mapqd9m4b4gbo2krh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
